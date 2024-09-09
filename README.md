@@ -1,5 +1,8 @@
 # vue-landing-page
 
+
+![Uploading localhost_8080_.png…]()
+
 ## Project setup
 ```
 npm install
